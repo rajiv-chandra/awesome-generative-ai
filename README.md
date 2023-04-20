@@ -97,7 +97,7 @@ A curated list of resources, tools, libraries, and applications related to gener
 
 ## Autonomous agents
 
--   [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. Report about [Auto GPT](https://docs.kanaries.net/articles/autogpt-4) in Japanese.
+-   [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. Report about [AutoGPT](https://docs.kanaries.net/articles/autogpt-4) in Japanese.
 -   [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 -   [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 
