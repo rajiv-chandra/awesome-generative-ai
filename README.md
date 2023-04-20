@@ -1,4 +1,5 @@
-# awesome-generative-ai
+# Awesome Generative AI
+
 A curated list of all the Awesome Generative AI Resources I encountered
 
 # Awesome Generative AI Resources
